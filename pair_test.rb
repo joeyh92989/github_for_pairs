@@ -1,4 +1,4 @@
-class Test
+class TestTest
   def initialize(test)
     @test = test
   end
